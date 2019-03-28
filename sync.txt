@@ -1,0 +1,9 @@
+https://www.cnblogs.com/bbc66/p/9802921.html
+
+Setting Sync 快捷键：
+
+上传： Shift + Alt + U (Sync: Update / Upload Settings)
+
+下载： Shift + Alt + D (Sync: Download Settings)
+
+如果快捷键有冲突，可Ctrl + K + S快捷键设置配置其它快捷键 或 Ctrl + P / F1 在命令窗口输入 >sync 即会出现相应命令供选择
